@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font: Arial;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333;
+}
+
+
+h1, h2, h3 {
+ color: #222;
+}
+
+/*header*/
+header {
+  background: #6c63f7; 
+  text-align: center;
+  padding: 20px 0;
+  font-size: 1.4rem;
+}
+
+/*bio*/
+#bio {
+
+  max-width: 600px;
+  margin: auto;
+  
+}
+
+/*SKILLS*/
+#skills ul {
+  list-style-type: square; 
+  max-width: 600px;
+  margin: auto;
+  
+}
+
+/* projects */
+#projects .project {
+  margin: 20px auto;
+  
+  max-width: 800px;
+
+}
+
+/* footer */
+footer {
+  background: #6c63f7; 
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+}
